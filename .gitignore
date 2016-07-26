@@ -7,7 +7,6 @@ build
 private/
 temporal.png
 temporal_data
-config.h
 thermistortable.h
 Makefile
 sim
@@ -21,3 +20,5 @@ configtool.ini
 *.atsuo
 *.componentinfo.xml
 *.cproj
+
+.idea
